@@ -106,8 +106,26 @@ const DISTRIBUTORS = [
     address:
       "4th Floor, 409, Kanakia Wall Street, Wing A, Mahakali Caves Road, Andheri East, Mumbai 400093",
     phones: [{ label: "+91 7738987360", href: "tel:+917738987360" }],
-    emails: ["madhuri@trufid.com", "tanveermonga@gmail.com"],
     empanelledOn: "31-Aug-26",
+  },
+  {
+    name: "Aevitas Capital Pvt. Ltd.",
+    aprn: "APRN00373",
+    address:
+      "B 1501-02, Whispering Palms Xxclusive, Akurli Road, Lokhandwala Township, Kandivili East, Mumbai 400101",
+    phones: [{ label: "+91 9920919008", href: "tel:+919920919008" }],
+    empanelledOn: "12-Sep-22",
+  },
+  {
+    name: "Sapphire Wealth (Sole Proprietorship)",
+    aprn: "APRN06525",
+    address:
+      "Opp Santacruz Post Office, 1st Floor, Hem-Dil Linking Road, Mumbai, Santacruz (West) S.O",
+    phones: [
+      { label: "+91 9820493100", href: "tel:+919820493100" },
+      { label: "+91 9892014737", href: "tel:+919892014737" },
+    ],
+    empanelledOn: "16-Sep-26",
   },
 ];
 
